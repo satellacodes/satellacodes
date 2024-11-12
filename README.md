@@ -1,7 +1,7 @@
 # Hello, I'm Dimas Aris Pangestu 👋
 
 ## About Me
-- 🔭 I’m currently working on [IMPHNEN](https://www.facebook.com/groups/1032515944638255)
+- 🔭 I’m a student
 - 🌱 I’m learning more about **Web Development**, **Flutter**, and **Pentester**
 - 👯 I’m looking to collaborate on **Web Developer**
 - 🤔 I’m currently learning **Cyber Security** and **Full stack JS**
