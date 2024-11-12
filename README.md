@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Web Developer**
 - 🤔 I’m currently learning **Cyber Security** and **Full stack JS**
 - 💬 Ask me about **JavaScript**, **Pentest**
-- 🔐 im learning cyber security on ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-semangka-green?logo=tryhackme&style=for-the-badge)
+- 🔐 im learning cyber security on ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-semangka-green?logo=tryhackme&style=for-the-badge) this myprofile THM [![TryHackMe](https://tryhackme.com/img/logo/tryhackme_logo_full.svg)](https://tryhackme.com/p/semangka)
 - ㌥ And i have medium skills on editing, im use **adobe after effect 2020** and **affinity designer 2**
 - 📫 How to reach me: [dimasarisp52@gmail.com](mailto:dimasarisp52@gmail.com)
 - ⚡ Fun fact: I love solving **CTF challenges**!
