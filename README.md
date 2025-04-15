@@ -1,3 +1,5 @@
+https://komarev.com/ghpvc/?username=satellacodes
+
 # Hello, I'm Dimas Aris Pangestu 👋
 
 ## About Me
@@ -9,16 +11,16 @@
 - ⚡ Fun fact: I love solving **CTF challenges**!
 
 ## 📈 GitHub Stats
-![dimascodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimascodes&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![dimascodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satellacodes&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimascodes)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=dimascodes&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=satellacodes&theme=radical)
 
 ## 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimascodes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satellacodes&layout=compact)
 
 ## Social Media
 - 📬 **Email**: [dimasarisp52@gmail.com](mailto:dimasarisp52@gmail.com)
