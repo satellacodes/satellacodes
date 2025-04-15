@@ -1,5 +1,4 @@
-https://komarev.com/ghpvc/?username=satellacodes
-
+![](https://komarev.com/ghpvc/?username=satellacodes)
 # Hello, I'm Dimas Aris Pangestu 👋
 
 ## About Me
@@ -14,7 +13,7 @@ https://komarev.com/ghpvc/?username=satellacodes
 ![dimascodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satellacodes&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimascodes)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satellacodes)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=satellacodes&theme=radical)
