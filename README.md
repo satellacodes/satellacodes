@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=satellacodes)
-# Hello, Dimas Aris Pangestu👋
+# Hello, I'm Dimas Aris Pangestu👋
 
 ## About Me
 - 🔭 I’m a student
