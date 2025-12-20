@@ -6,7 +6,7 @@
 - 🤔 I’m currently learning **Cyber Security** and **Full stack JS**
 - 🔐 im learning cyber security on ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-satella-green?logo=tryhackme&style=for-the-badge) this myprofile THM [satella](https://tryhackme.com/r/p/satella)
 - ㌥ And i have medium skills on editing video on motion graphics and basic photo editing, im use **adobe after effect 2020** and **affinity designer 2**
-- 📫 How to reach me: [anonym-822@gmail.com](mailto:dimasarisp52@gmail.com)
+- 📫 How to reach me: [dimasarisp52@gmail.com](mailto:dimasarisp52@gmail.com)
 - ⚡ Fun fact: I love solving **CTF challenges**!
 
 ## 📈 GitHub Stats
@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satellacodes&layout=compact)
 
 ## Social Media
-- 📬 **Email**: [anonym-822@gmail.com](mailto:dimasarisp52@gmail.com)
+- 📬 **Email**: [dimasarisp52@gmail.com](mailto:dimasarisp52@gmail.com)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/)
 - 📸 **Instagram**: [Instagram Profile](https://www.instagram.com/)
 
