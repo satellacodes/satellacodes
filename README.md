@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=satellacodes)
 # Hello, I'm Dimas Aris Pangestu👋
 
 ## About Me
